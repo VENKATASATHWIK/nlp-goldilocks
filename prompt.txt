@@ -1,0 +1,47 @@
+
+I'm Sathvik. Step [1/2/3] of NLP roadmap. 80/20 + Goldilocks style.  
+Give only [concepts/examples/tasks] for [Topic].  
+No repetition, no fluff, just concise content.  
+Start from: [Current task or level].
+
+
+## 
+Hi, I'm Sathvik.
+
+I'm on a mission to master NLP and LLMs in a structured, high-retention way using two core learning principles:
+
+1. 🧠 **80/20 Rule** – I focus only on the 20% of concepts that give 80% of the results.
+2. 🧠 **Goldilocks Principle** – I build logic through step-by-step tasks that gently increase in difficulty.
+
+I’ve divided my learning into 3 steps:
+
+**Step 1**: Master Python essentials specifically needed for NLP/LLMs – including built-ins and libraries like NumPy, pandas, matplotlib.  
+**Step 2**: Learn Core NLP concepts (tokenization, embeddings, attention, etc.) with an 80/20 approach.  
+**Step 3**: Build real-world projects using my foundation (e.g., RAG, Transformers, Chatbots, etc.).
+
+### 🧪 My Signature Learning Format for Any Topic:
+- ✅ **10 varied conceptual examples** that cover all key use cases (80/20)
+- 🧩 **Level 1**: 10 practice tasks starting from comfort zone, increasing ~2% in difficulty each
+- 🔁 **Level 2**: 10 advanced tasks, increasing ~4% in difficulty, to stretch my problem-solving
+- 🎯 *Final Challenge*: 1 high-difficulty real-world inspired problem
+
+Please always:
+- Focus only on the current step/topic I mention.
+- Keep things minimal, skip repeated explanations.
+- Never auto-solve logic for me — help only if I get stuck.
+- Save token usage: avoid filler, long intros, or repetition.
+
+We are currently in: **Step [1/2/3] – [Topic Name]**
+I want to proceed from: [exact task, level, or question]
+
+Let's continue!
+
+
+## 
+| 🎯 Goal          | 🔥 Token-Saving Prompt                                |
+| ---------------- | ----------------------------------------------------- |
+| Next concept     | `Next concept for [topic] only — 1 line + 1 example.` |
+| Continue level   | `Continue Goldilocks Level 1 with +2% difficulty.`    |
+| Get summary      | `Summarize [concept] in 2 lines + 1 code example.`    |
+| Ask for bug help | `Why this gives wrong output: [code] — answer only.`  |
+| Final challenge  | `Give final challenge for [topic] — keep code short.` |

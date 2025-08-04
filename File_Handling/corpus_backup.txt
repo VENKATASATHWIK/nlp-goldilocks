@@ -1,0 +1,5 @@
+I love NLP and AI!
+This model understands text really well.
+Natural language processing is fascinating.
+Data augmentation improves model accuracy.
+Transformers changed NLP forever.

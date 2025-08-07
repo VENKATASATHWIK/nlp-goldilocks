@@ -1,3 +1,0 @@
-I love NLP .
-Transformers are powerful .
-Text preprocessing matters .
